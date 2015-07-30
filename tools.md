@@ -6,7 +6,7 @@
 ###### View Debugging
 * Reveal: http://revealapp.com/
 
->>> Download and install the app, use pod to link the library in debug mode
+> Download and install the app, use pod to link the library in debug mode
 ```
 pod 'Reveal-iOS-SDK', :configurations => ['Debug']
 ```
